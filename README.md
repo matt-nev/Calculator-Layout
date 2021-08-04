@@ -1,2 +1,2 @@
 # calculator
-LEap 4 Week Project
+Leap 4 Week Project
