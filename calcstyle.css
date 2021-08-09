@@ -1,30 +1,34 @@
 .calc {
     display: grid;
     background-color: orangered;
-    background-position: auto;
     padding: 1%;
-    position: relative;
-}
-.button {
+    position: center;
+  }
+  .button {
     background-color: darkgoldenrod;
     cursor: grab;
-}
-.input {
+    margin: auto;
+  }
+  .input {
     position: center;
     background-color: yellow;
-}
-.row1 {
+    margin: auto;
+  }
+  .row1 {
     position: relative;
-}
-.row2 {
+    margin: auto;
+  }
+  .row2 {
     position: center;
-}
-.row3 {
+    margin: auto;
+  }
+  .row3 {
     position: center;
-}
-.row4 {
-    position: center;
-}
-.row5 {
-    position: center;
-}
+    margin: auto;
+  }
+  .row4 {
+    margin: auto;
+  }
+  .row5 {
+    margin: auto;
+  }
