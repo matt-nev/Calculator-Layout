@@ -1,14 +1,23 @@
+body{
+    margin: 100px;
+    margin-width: 100px;
+    border: 50px;
+}
 .calc {
     display: grid;
     background-color: orangered;
-    padding: 1%;
     position: center;
+    background-position: center center;
+    padding: 5%;
   }
   .button {
     background-color: darkgoldenrod;
     cursor: grab;
     margin: auto;
   }
+ .button:hover {
+    background-color: moccasin;
+}
   .input {
     position: center;
     background-color: yellow;
