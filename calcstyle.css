@@ -1,0 +1,30 @@
+.calc {
+    display: grid;
+    background-color: orangered;
+    background-position: auto;
+    padding: 1%;
+    position: relative;
+}
+.button {
+    background-color: darkgoldenrod;
+    cursor: grab;
+}
+.input {
+    position: center;
+    background-color: yellow;
+}
+.row1 {
+    position: relative;
+}
+.row2 {
+    position: center;
+}
+.row3 {
+    position: center;
+}
+.row4 {
+    position: center;
+}
+.row5 {
+    position: center;
+}
