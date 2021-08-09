@@ -1,6 +1,6 @@
 body{
     margin: 100px;
-    margin-width: 100px;
+    border-width: 100px;
     border: 50px;
 }
 .calc {
@@ -9,6 +9,7 @@ body{
     position: center;
     background-position: center center;
     padding: 5%;
+    background-size: contain;
   }
   .button {
     background-color: darkgoldenrod;
@@ -16,6 +17,7 @@ body{
     margin: auto;
     width: 100px;
     height: 100px;
+    font-size:xx-large;
   }
  .button:hover {
     background-color: moccasin;
@@ -26,17 +28,15 @@ body{
     margin: auto;
     width: 300px;
     height: 75px;
+    font-size:xx-large;
   }
   .row1 {
-    position: relative;
     margin: auto;
   }
   .row2 {
-    position: center;
     margin: auto;
   }
   .row3 {
-    position: center;
     margin: auto;
   }
   .row4 {
