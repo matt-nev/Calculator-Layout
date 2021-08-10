@@ -8,16 +8,16 @@
     padding: 50px;
     margin: auto;
     border-radius: 30px;
-  }
-  .button {
+}
+.button {
     background-color: darkgoldenrod;
     cursor: grab;
     margin: auto;
     width: 100px;
     height:100px;
     font-size:xx-large;
-  }
-  .otherbutton {
+}
+.otherbutton {
     background-color: darkgoldenrod;
     cursor: grab;
     margin: auto;
@@ -25,10 +25,10 @@
     height:100px;
     font-size:xx-large;
 }
- .button:hover {
+.button:hover {
     background-color: moccasin;
 }
-  .input {
+.input {
     position: center;
     background-color: yellow;
     margin: auto;
@@ -36,22 +36,22 @@
     height: 75px;
     font-size: xx-large;
     text-align: right;
-  }
-  .row1 {
+}
+.row1 {
     position: relative;
     margin: auto;
-  }
-  .row2 {
+}
+.row2 {
     position: center;
     margin: auto;
-  }
-  .row3 {
+}
+.row3 {
     position: center;
     margin: auto;
-  }
-  .row4 {
+}
+.row4 {
     margin: auto;
-  }
-  .row5 {
+}
+.row5 {
     margin: auto;
-  }
+}
