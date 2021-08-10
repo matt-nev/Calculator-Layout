@@ -28,6 +28,9 @@
   .button:hover {
     background-color: moccasin;
   }
+  .otherbutton:hover {
+    background-color: moccasin;
+  }
   .input {
     position: center;
     background-color: yellow;
